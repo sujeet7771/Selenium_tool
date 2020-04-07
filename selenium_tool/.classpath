@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jar/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Java/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="D:/Java/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="D:/Java/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="D:/Java/lib/jce.jar"/>
+	<classpathentry kind="lib" path="D:/Java/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="D:/Java/lib/jfxswt.jar"/>
+	<classpathentry kind="lib" path="D:/Java/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="D:/Java/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="D:/Java/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="D:/Java/lib/resources.jar"/>
+	<classpathentry kind="lib" path="D:/Java/lib/rt.jar"/>
+	<classpathentry kind="lib" path="jar/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="jar/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="jar/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="jar/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="jar/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="jar/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="jar/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="driver/chromedriver.exe"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
